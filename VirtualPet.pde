@@ -18,7 +18,7 @@ strokeWeight(8);
 fill(159,242,51);
 ellipse(200,200,200,180);
 //face mask
-strokeWeight(2);
+strokeWeight(4);
 fill(255,248,100);
 ellipse(155,180,100,90);
 ellipse(245,180,100,90);
