@@ -3,9 +3,11 @@ void setup(){
   //some of your code here
 size(400,400);
 background(100,100,130);
+
 }
 void draw(){
   //more of your code here
+strokeWeight(8);
   textAlign(CENTER);
 textSize(36);
 text("Mosh Pit", 200, 50);
@@ -41,6 +43,5 @@ fill(54,179,234);
 ellipse(250,180,30,30);
 fill(159,242,51);
 ellipse(250,180,13,13);
-strokeWeight(4);
 }
 
