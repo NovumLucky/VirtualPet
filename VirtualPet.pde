@@ -9,9 +9,6 @@ void draw(){
   //more of your code here
 stroke(0,0,0);
 strokeWeight(4);
-  textAlign(CENTER);
-textSize(36);
-text("Mosh Pit", 200, 50);
 //"ears"
 fill(255,248,100);
 ellipse(140,145,60,100);
