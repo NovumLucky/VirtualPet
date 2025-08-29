@@ -6,7 +6,7 @@ background(100,100,130);
 }
 void draw(){
   //more of your code here
-strokeWeight(4)
+strokeWeight(4);
   textAlign(CENTER);
 textSize(36);
 text("Mosh Pit", 200, 50);
