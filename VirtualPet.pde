@@ -6,7 +6,6 @@ background(100,100,130);
 }
 void draw(){
   //more of your code here
-strokeWeight(4);
   textAlign(CENTER);
 textSize(36);
 text("Mosh Pit", 200, 50);
@@ -15,9 +14,11 @@ fill(255,248,100);
 ellipse(140,145,60,100);
 ellipse(260,145,60,100);
 //body
+strokeWeight(8);
 fill(159,242,51);
 ellipse(200,200,200,180);
 //face mask
+strokeWeight(2);
 fill(255,248,100);
 ellipse(155,180,100,90);
 ellipse(245,180,100,90);
